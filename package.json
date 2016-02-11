@@ -1,0 +1,9 @@
+{
+  "name": "spalger-kibana-hacks",
+  "version": "0.0.1",
+  "kibana": {
+    "hacks": [
+      "expose_configuration.js"
+    ]
+  }
+}
